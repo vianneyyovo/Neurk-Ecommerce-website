@@ -2,7 +2,7 @@
 
 <h2 align="center"> Neurk - Ecommerce Website</h2>
 
-  Neurk is online store where we are salling our farms fresh products <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Neurk Farm is an e-commerce website designed for sales of  fresh Farm Produce. <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 </div>
 
 <br />
